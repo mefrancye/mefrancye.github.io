@@ -1,0 +1,16 @@
+layout: default
+title: Me Fran
+logo: /assets/img/logo.png
+description: My UI & UX stuff.
+tagline: 'ui ux design'
+url: "https://mefrancye.github.io/"
+comments: true
+future: false
+
+plugins: [jekyll-seo-tag, jekyll-paginate, jekyll-watch, jekyll-sitemap]
+
+paginate: 6
+
+whitelist:
+  - jekyll-paginate-v2
+  - jekyll-sitemap

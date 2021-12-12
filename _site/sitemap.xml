@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/dev/2021/12/01/porque-criei-um-blog.html</loc>
+<lastmod>2021-12-01T14:18:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/ui.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/ux.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/google6500426a678a1313.html</loc>
+<lastmod>2021-10-15T18:41:37-06:00</lastmod>
+</url>
+</urlset>
